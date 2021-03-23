@@ -1,2 +1,2 @@
 # Reliance-Stock-Price-prediction
-Reliance Stock Price prediction using LSTM Machine Learning model
+Very basic LSTM Machine Learning model to predict the stock price for Reliance. To learn about the LSTM model.
